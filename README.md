@@ -34,7 +34,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Useful resources
 
-- Github [Anosha Ahmed](https://github.com/anoshaahmed/stats-preview) - This helped me for CSS. I really liked this pattern and will use it going forward.
+- [Anosha Ahmed](https://github.com/anoshaahmed/stats-preview) - This helped me for CSS. I really liked this pattern and will use it going forward.
 
 ## Author
 
